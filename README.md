@@ -16,4 +16,4 @@
 
 - The option Fixed Partition and Best Fit Chosen
 
-<img src = " https://github.com/Sharvin1106/Memory-Simulator/blob/main/Simulator2.jpg" />
+<img src = "https://github.com/Sharvin1106/Memory-Simulator/blob/main/Simulator2.jpg" />
