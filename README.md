@@ -10,3 +10,10 @@
 
 ## Application
 
+- Main page to choose between which type of partition scheme to use
+
+<img src="https://github.com/Sharvin1106/Memory-Simulator/blob/main/Simulator1.jpg" />
+
+- The option Fixed Partition and Best Fit Chosen
+
+<img src = " https://github.com/Sharvin1106/Memory-Simulator/blob/main/Simulator2.jpg" />
